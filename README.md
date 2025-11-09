@@ -5,6 +5,9 @@
 + download dalam bentuk zip, terus di ekstrak.
 <img width="648,9" height="502,6" alt="image" src="https://github.com/user-attachments/assets/8f0c83d5-b8aa-4ab1-895d-ac0bfc7a7120" />
 
++ kalau gabisa bisa lewat drive ini yaa downloadnya
+https://drive.google.com/drive/folders/1fjyLLpLIsPgRJui0AZgXMLX2rW99L7Zi?usp=sharing
+
 + habis itu masuk vs code terus pilih folder yan tadi di ekstrak.
 
 <img width="380" height="427" alt="image" src="https://github.com/user-attachments/assets/2bf35f1c-e4b8-4ee6-a8a0-438f72d48f48" />

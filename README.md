@@ -1,16 +1,16 @@
 ----------------------------------
-**CARA BUKA FILE
-**
+**CARA BUKA FILE**
 ----------------------------------
 
 + download dalam bentuk zip, terus di ekstrak.
-  <img width="611" height="248" alt="image" src="https://github.com/user-attachments/assets/220f4d3d-4995-4913-86a2-1dc97bd057c1" />
+<img width="648,9" height="502,6" alt="image" src="https://github.com/user-attachments/assets/8f0c83d5-b8aa-4ab1-895d-ac0bfc7a7120" />
 
-+habis itu masuk vs code terus pilih folder yan tadi di ekstrak
++ habis itu masuk vs code terus pilih folder yan tadi di ekstrak.
+
 <img width="380" height="427" alt="image" src="https://github.com/user-attachments/assets/2bf35f1c-e4b8-4ee6-a8a0-438f72d48f48" />
 
-+buat install modul ketik perintah diatas satu satu lewat cmd
-<img width="1103" height="610" alt="image" src="https://github.com/user-attachments/assets/9d7658a7-5dbb-4edf-9a61-bf9f0b816f7c" />
++ buat install modul buka cmd terus ketik perintah dicatatan(bawah)
+<img width="661" height="366" alt="image" src="https://github.com/user-attachments/assets/9d7658a7-5dbb-4edf-9a61-bf9f0b816f7c" />
 
 kalau semua sudah ke install run file aplikasi_utama.py
 
@@ -25,5 +25,8 @@ Perintah cmd untuk modul yang perlu diinstal
 Buat file .db (database) biar lebih gampang buka filenya bisa pakai sql browser bisa download disini:
 https://sqlitebrowser.org/
 
+-----------------------------
+Tolong Plis dibantu yaa
 
+smgt teman teman 🤍
 
